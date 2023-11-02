@@ -65,3 +65,4 @@ Training with your custom dataset
 trainer = ChatterBotCorpusTrainer(bot) trainer.train('path/to/your/custom_dataset.yml') Replace 'path/to/your/custom_dataset.yml' with the path to your formatted dataset file.
 
 Remember, before using any dataset, ensure it complies with usage rights and licensing agreements. Cleaning and formatting the data to suit your chatbot's needs is crucial for effective training.
+__
