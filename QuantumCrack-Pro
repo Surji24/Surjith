@@ -229,4 +229,4 @@ if __name__ == "__main__":
     print("\nProject Name: QuantumCrack-Pro")
     print("Algorithm: Grover's Algorithm")
     print("Real Impact: Demonstrates quantum password cracking threat")
-    print("GitHub: github.com/yourname/QuantumCrack-Pro")
+    print("GitHub: github.com/Surji24/QuantumCrack-Pro")
