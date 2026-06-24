@@ -1,0 +1,13 @@
+# Step 1: Install dependencies
+pip install qiskit qiskit-aer numpy
+
+# Step 2: Create project folder
+mkdir QuantumCrack-Pro
+cd QuantumCrack-Pro
+
+# Step 3: Save code
+touch quantum_cracker.py
+# (paste the code above)
+
+# Step 4: Run
+python quantum_cracker.py
